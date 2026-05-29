@@ -1,0 +1,6 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-groq==0.1.10
+langchain-core==0.2.38
+sqlalchemy==2.0.30
+python-dotenv==1.0.1
